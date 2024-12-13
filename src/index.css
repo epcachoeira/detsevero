@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: #313131;
+  color: #FFF;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  color: red;
+  margin-right: 0.5rem;
+}
