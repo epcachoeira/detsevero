@@ -10,7 +10,7 @@ function App() {
         <h1>Detetive Severo</h1>
         <p>+18 anos de experiência</p>
         {/* <img src="src/images/gettyimages-1398047195-612x612.jpg" alt="Detetive" /> */}
-        <img src="src/images/blob.jpg" alt="Detetive" />
+        <img src="./src/images/blob.jpg" alt="Detetive" />
       </div>
 
       <div className="descricao">
