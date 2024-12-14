@@ -9,8 +9,6 @@ function App() {
       <div className="header">
         <h1>Detetive Severo</h1>
         <p>+18 anos de experiência</p>
-        {/* <img src="src/images/gettyimages-1398047195-612x612.jpg" alt="Detetive" /> */}
-        {/* <img src="./src/images/blob.jpg" alt="Detetive" /> */}
         <img src="/blob.jpg" alt="Detetive" />
       </div>
 
@@ -46,13 +44,12 @@ function App() {
       </div>
 
       <div className="conversar">
-        {/* <button className="btn">INICIAR CONVERSA <FaWhatsapp /></button> */}
         <div className="btn">
         <a href="https://api.whatsapp.com/send?phone=5521981261313&#038;text=Ol%C3%A1,%20vim%20pelo%20site%20e%20gostaria%20de%20ter%20maiores%20informa%C3%A7%C3%B5es">
           INICIAR CONVERSA <FaWhatsapp />
         </a>
         </div>
-        <h3>(21) 98018-9243</h3>
+        <h3>(21) 98018-9243 ou (21) 98126-1313</h3>
       </div>
       </div>
     </div>
