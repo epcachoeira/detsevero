@@ -83,6 +83,14 @@ header {
 }
 
 @media (max-width: 576px) {
+  .container {
+    margin-top: 25px;
+  }
+
+  .razoes {
+    margin-bottom: 20px;
+  }
+
   .razoes ul {
     flex-direction: column;
   }
@@ -97,5 +105,13 @@ header {
     /* margin-bottom: 20px;
     background-color: rgb(72, 3, 3);
     padding: 10px; */
+  }
+
+  .apelo {
+    margin-bottom: 20px;
+  }
+
+  .conversar h3 {
+    font-size: 0.95rem;
   }
 }

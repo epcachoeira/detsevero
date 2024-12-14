@@ -38,19 +38,19 @@ function App() {
       </div>
 
       <div className="bloco-final">
-      <div className="apelo">
-        <h2>Precisa de um detetive?</h2>
-        <h2>Fale comigo agora</h2>
-      </div>
-
-      <div className="conversar">
-        <div className="btn">
-        <a href="https://api.whatsapp.com/send?phone=5521981261313&#038;text=Ol%C3%A1,%20vim%20pelo%20site%20e%20gostaria%20de%20ter%20maiores%20informa%C3%A7%C3%B5es">
-          INICIAR CONVERSA <FaWhatsapp />
-        </a>
+        <div className="apelo">
+          <h2>Precisa de um detetive?</h2>
+          <h2>Fale comigo agora</h2>
         </div>
-        <h3>(21) 98018-9243 ou (21) 98126-1313</h3>
-      </div>
+
+        <div className="conversar">
+          <div className="btn">
+            <a href="https://api.whatsapp.com/send?phone=5521981261313&#038;text=Ol%C3%A1,%20vim%20pelo%20site%20e%20gostaria%20de%20ter%20maiores%20informa%C3%A7%C3%B5es">
+              INICIAR CONVERSA <FaWhatsapp />
+            </a>
+          </div>
+          <h3>(21) 98018-9243 ou (21) 98126-1313</h3>
+        </div>
       </div>
     </div>
   )
